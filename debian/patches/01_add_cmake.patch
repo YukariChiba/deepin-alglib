@@ -2,10 +2,8 @@ Description: add cmake-support to the library
 Author: Anton Gladky <gladk@debian.org> 
 Last-Update: 2015-04-16
 
-Index: alglib/CMakeLists.txt
-===================================================================
 --- /dev/null
-+++ alglib/CMakeLists.txt
++++ b/CMakeLists.txt
 @@ -0,0 +1,31 @@
 +project(alglib CXX)
 +cmake_minimum_required(VERSION 2.8)

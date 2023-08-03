@@ -1,3 +1,43 @@
+alglib (3.19.0-1) unstable; urgency=medium
+
+  * Upload into unstable.
+
+ -- Anton Gladky <gladk@debian.org>  Thu, 20 Oct 2022 18:32:59 +0200
+
+alglib (3.19.0-1~exp1) experimental; urgency=medium
+
+  [ Anton Gladky ]
+
+  * [fe5abb8] Set Standards-Versions to 4.6.1
+  * [9e43a83] Add lintian-overrides
+
+  [ Ileana Dumitrescu ]
+
+  * [7fd0e4b] New upstream version 3.19.0
+  * [8a55bd7] Refresh patches.
+  * [d1d12c6] Update so-version of the lib to 3.19
+  * [a049942] Update debian copyright year to 2022.
+
+ -- Anton Gladky <gladk@debian.org>  Sat, 24 Sep 2022 22:50:55 +0200
+
+alglib (3.18.0-1) unstable; urgency=medium
+
+  * [894d5d4] Update d/copyright
+  * Upload into unstable
+
+ -- Anton Gladky <gladk@debian.org>  Sun, 02 Jan 2022 23:05:01 +0100
+
+alglib (3.18.0-1~exp1) experimental; urgency=medium
+
+  * [df72892] New upstream version 3.18.0
+  * [dee30d9] Bump debhelper from old 12 to 13.
+  * [979b417] Set Standards-Version: 4.6.0
+  * [d54eda8] Update .gitlab-ci.yml
+  * [f95fff6] Refresh patches
+  * [70ede41] Update so-version of the lib to 3.18
+
+ -- Anton Gladky <gladk@debian.org>  Thu, 18 Nov 2021 22:12:00 +0100
+
 alglib (3.17.0-3) unstable; urgency=medium
 
   * Team upload.
